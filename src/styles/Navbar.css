@@ -1,0 +1,25 @@
+nav.navbar-dark {
+  background: #414141;
+  color: #ffffff;
+  padding: 10px 0px;
+}
+ul.navbar-nav {
+  list-style-type: none;
+  text-align: right;
+  padding: 0px;
+  margin: 0px;
+}
+ul.navbar-nav li {
+  display: inline-block;
+  color: #ffffff;
+  text-align: right;
+  margin-right: 20px;
+}
+ul.navbar-nav li a {
+  color: #dadada;
+  text-decoration: none;
+  font-size: 12px;
+}
+ul.navbar-nav li a:hover {
+  color: #ffffff;
+}

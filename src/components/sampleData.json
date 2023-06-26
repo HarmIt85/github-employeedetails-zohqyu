@@ -1,0 +1,23 @@
+[
+  {
+    "id": "10001",
+    "firstName": "Steve",
+    "lastName": "Jobs",
+    "Experience": 20,
+    "Salary": 1000000
+  },
+  {
+    "id": "10002",
+    "firstName": "Peter",
+    "lastName": "Parker",
+    "Experience": 5,
+    "Salary": 250000
+  },
+  {
+    "id": "10003",
+    "firstName": "Jason",
+    "lastName": "Statham",
+    "Experience": 10,
+    "Salary": 500000
+  }
+]
